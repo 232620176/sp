@@ -1,0 +1,8 @@
+dependencies {
+	compile "com.google.guava:guava:$guavaVersion"
+	compile "org.aspectj:aspectjrt:1.8.13"
+	compile "org.springframework.boot:spring-boot-starter-cache:$springBootVersion"
+	compile "org.springframework.boot:spring-boot-starter-web:$springBootVersion"
+	compile "org.springframework:spring-context:$springVersion"
+	compile "org.springframework:spring-webmvc:$springVersion"
+}

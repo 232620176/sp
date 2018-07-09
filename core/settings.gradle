@@ -1,0 +1,5 @@
+include 'com.hydra.core.cfg',\
+'com.hydra.core.common',\
+'com.hydra.core.db',\
+'com.hydra.core.transport',\
+'com.hydra.core.web'
